@@ -5,7 +5,5 @@
   ## Submission Rules
   - One folder per group named: GroupNo-TopicName
   - Copy the TEMPLATE folder and rename it
-  - Never push directly to main
-  - Submit via Pull Request only
 
   
