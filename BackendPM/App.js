@@ -11,9 +11,13 @@ app.use(express.json())
 
 const mongoose = require("mongoose")
 
-mongoose.connect(process.env.MONGO_URI)
-    .then(() => console.log("MongoDB Connected ✅"))
-    .catch((err) => console.log(err));
+// mongoose.connect(process.env.MONGO_URI)
+//     .then(() => console.log("MongoDB Connected ✅"))
+//     .catch((err) => console.log(err));/
+
+mongoose.connect("mongodb://localhost:27017/User")
+    .then(() => console.log("connected to mongodb"))
+    .catch((err) => console.error(err))
 
 app.use('/',express.static('Images'))    
 
