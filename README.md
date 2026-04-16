@@ -65,6 +65,9 @@ KrushiSakha/
 
 
 </p>
+
+
+<br>
 <p><h1>7. Prerequisites and installation steps: </h1>## # 🌱 Krushi Sakha (Farmer's Friend)
 
 ## 📌 Project Abstract
