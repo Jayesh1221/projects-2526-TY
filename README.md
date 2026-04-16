@@ -63,11 +63,7 @@ KrushiSakha/
 ├── settings.gradle
 └── .gitignore                            # Excludes IDE files, build caches, and API keys
 
-
-</p>
-
-
-<h1>7. Prerequisites and installation steps: </h1>## # 🌱 Krushi Sakha (Farmer's Friend)
+7. Prerequisites and installation steps: ## # 🌱 Krushi Sakha (Farmer's Friend)
 
 ## 📌 Project Abstract
 **Krushi Sakha** is a highly optimized, native Android application engineered to bridge the critical knowledge gap in modern agriculture. Farmers currently face significant financial losses (up to 30-40%) due to a lack of scientific crop management, particularly in warehousing and disease mitigation. 
